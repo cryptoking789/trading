@@ -1,0 +1,40 @@
+body{
+    background-image: url(TRADE7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#flexx{
+    display: flex;
+}
+#imgg img{
+    height: 150px;
+    width: 200px;
+    margin-left: 400px;
+}
+#submit{
+    margin-left: 500px;
+    font-size: 25px;
+}
+#submitt{
+    margin-top: 200px;
+    font-size: 30px;
+}
+h1{
+    margin-left: 90px;
+    color:rgb(245, 246, 247);
+}
+h2{
+    margin-left: 80px;
+    color: rgb(237, 246, 250);
+}
+#flexxx{
+    display: flex;
+    justify-content: space-around;
+}
+#amt{
+    color: aliceblue;
+
+}
+#utr{
+    color: aliceblue;
+}
